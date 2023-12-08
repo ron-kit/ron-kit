@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello
+
+I am Ron, I am in my 2nd year of Engineering Physics.
+
+I am familiar with Java, Python, and C.
 
 <!--
 **ron-kit/ron-kit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
