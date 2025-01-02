@@ -2,4 +2,4 @@
 
 - 3rd year engineering physics student
 - Know a bit about Java, Python, C++
-- Working on my website, minecraft mods, and silly tools
+- Current projects: website, game mods, and various small tools
