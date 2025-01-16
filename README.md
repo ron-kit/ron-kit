@@ -1,5 +1,5 @@
-🪐 3rd year engineering physics student
+🪐 3rd year Eng Phys
 
-🚀 Know a bit about Java, Python, C++
+🚀 Know Java, Python, C++
 
 🛰️ Current projects: machine learning course, personal website, game modifications 
